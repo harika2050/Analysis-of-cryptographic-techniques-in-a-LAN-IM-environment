@@ -6,11 +6,15 @@ Out of the multiple encryption techniques available, have performed an analysis 
 1. Advanced Encryption Standard (AES) 
 2. Data Encryption Standard (DES) 
 3. RSA (Rivest–Shamir–Adleman) 
+
+
 The factors which have been analysed are:
 1. Encryption time
 2. Decryption time
 3. Key generation time
 4. Memory utilisation for encryption and decryption
+
+
 In order to run the code:
 1. Create text files of size 50KB, 500KB, 1MB, 2MB and 5MB.
 2. The code for each algorithm is present in the folders- AES, DES and RSA. Run the server file first in one terminal. The client file should run
